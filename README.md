@@ -1,2 +1,2 @@
-# sp-strakonice
+# sps-strakonice
 TJBot_strakonice
